@@ -33,7 +33,7 @@ Admins can create or edit categories.
 Clone the repository
 
 ```
-git clone 
+git clone https://github.com/thebilz2/MERN-Photosharing-Backend
 ```
 
 After getting the starter files, you must to go both file directories and run
